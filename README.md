@@ -1,1 +1,1 @@
-# Simple implementation of jwt authentication in go
+## simple implementation of jwt authentication in go
